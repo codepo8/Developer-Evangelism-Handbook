@@ -3,6 +3,9 @@ available at http://developer-evangelism.com. The book is licenced
 with Creative Commons and I very much invite translations into other
 languages.
 
+To change the content of the book you basically edit the content.php file - 
+the switches tell you when which chapter starts or ends. 
+
 Regards,
 Chris
 
